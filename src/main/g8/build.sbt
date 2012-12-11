@@ -8,7 +8,7 @@ scalaVersion := "2.9.2"
 
 crossPaths := false
 
-libraryDependencies += "org.scala-sbt" % "command" % "0.12.0-Beta2"
+libraryDependencies += "org.scala-sbt" % "command" % "0.12.1"
 
 resolvers <+= sbtResolver
 
